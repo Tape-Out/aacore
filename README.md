@@ -1,6 +1,6 @@
 # aacore
 
-AArch64 application core in Bluespec.
+Arm64 application core in Bluespec.
 
 ![maturity](https://img.shields.io/badge/maturity-planned-lightgrey) ![license](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0%20OR%20MulanPSL--2.0-blue)
 
